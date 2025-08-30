@@ -16,7 +16,6 @@ Attachment: [Demo video (mp4)](pdf-chatter.mp4)
 
 ### Demo (local)
 ```bash
-cd /Users/canopas/projects/learnings/chat-with-pdf
 python -m venv .venv && source .venv/bin/activate
 python -m pip install --upgrade pip
 pip install -r requirements.txt
