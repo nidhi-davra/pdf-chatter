@@ -1,0 +1,10 @@
+streamlit>=1.36.0
+pypdf>=4.0.0
+sentence-transformers>=2.7.0
+scikit-learn>=1.4.0
+transformers>=4.42.0
+torch
+sounddevice>=0.4.7
+openai-whisper>=20231117
+numpy>=1.26.0
+reportlab>=4.0.0
